@@ -70,7 +70,7 @@ government debt,+
 |-interest rate,+
 
 interest rate,+
-|-investment,-
+|-investment,?
 
 savings,+
 |-spending,-
