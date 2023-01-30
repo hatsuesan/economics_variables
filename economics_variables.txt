@@ -1,0 +1,76 @@
+sales tax,+
+|-product cost,+
+|-living cost,+
+|-demand,-
+|-profit,-
+|-govermnent revenue,+
+|-investment,-
+
+corporation tax,+
+|-profit,-
+|-wage,- | employment,-
+|-govermnent revenue,+
+
+product cost,+
+|-demand,-
+|-profit,-
+|-wage,- | employment,-
+
+living cost,+
+|-poverty rate,+
+
+demand,+
+|-price,+ | competition,+ |-supply,+ |-quality,+
+|-profit,+ 
+|-employment,+
+
+profit,+
+|-investment,+ | employment,+
+
+govermnent revenue,+
+|-govermnent investment,+
+
+investment,+
+|-supply,+
+|-quality,+
+|-employment,+
+|-profit,+
+|-demand,+
+
+wage,+
+|-spending,+
+
+employment,+
+|-government revenue,+
+
+poverty rate,+
+|-crime rate,+
+|-homeless,+
+
+price,+
+|-living cost,+
+|-demand,-
+
+competition,+
+|-productivity,+
+|-price,-
+|-quality,+
+|-innovation,+
+|-economic growth,+
+
+government investment,+
+|-equality,+ | quality of public services,+
+
+money supply,+
+|-price,+
+|-government debt,+
+
+government debt,+
+|-tax,+
+|-interest rate,+
+
+interest rate,+
+|-investment,-
+
+savings,+
+|-spending,-
